@@ -3,8 +3,8 @@ import { Save, Store, CreditCard, Percent, User } from 'lucide-react';
 
 const SettingsSection = ({ onUpdateSettings }) => {
   const [settings, setSettings] = useState({
-    shopName: 'GroceryPOS Shop',
-    shopAddress: '123 Main Street, City, State - 123456',
+    shopName: 'vivek patel',
+    shopAddress: 'chitral',
     shopPhone: '+91 9876543210',
     shopEmail: 'shop@grocerypos.com',
     taxRate: 5,
